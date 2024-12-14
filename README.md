@@ -11,6 +11,8 @@
 
 </div>
 
+stack 2 branch 1
+
 git-spice is a tool for stacking Git branches.
 It lets you manage and navigate stacks of branches,
 conveniently modify and rebase them,
